@@ -1,4 +1,50 @@
 ## Sales Insights Data Analysis Project
+This project is a Power BI dashboard designed to analyze sales performance trends, identify revenue drivers, and provide actionable insights for decision-making.
+### **Objective
+
+1. Understand overall sales performance over time
+
+2. Identify top-performing products, regions, and customers
+
+3. Track KPIs such as revenue, growth rate, and profit margins
+
+4. Provide data-driven insights to guide strategic decisions**
+
+## Dashboard Features
+
+1. Interactive sales trend charts by time period
+
+2. Top products and regional performance analysis
+
+3. Revenue and profit KPIs
+
+4. Slicers and filters for deeper exploration
+
+## Tools Used
+
+Power BI for visualization and analysis
+
+Excel / SQL (if applicable) for preprocessing
+
+DAX for calculated measures
+
+## How to Use
+
+Download the .pbix file from this repository
+
+Open it using Power BI Desktop (free from Microsoft Store)
+
+Use slicers and filters to explore different views
+
+## Key Insights
+
+Delhi NCR contributed over 50% of total revenue
+
+Top 5 customers account for a significant share of sales
+
+Sales trend shows fluctuations between 2018–2020 with peaks in early 2018
+
+Product portfolio is highly concentrated, with top products driving most revenue
 
 ### Data Analysis Using SQL
 
